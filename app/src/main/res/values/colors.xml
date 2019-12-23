@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F0F0F4</color>
+    <color name="colorPrimaryDark">#46A3FF</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="expression">#55CECECE</color>
+
+    <color name="keyImp">#77FFE3</color>
+    <color name="keyImpPressed">#00F0BF</color>
+
+    <color name="keyBackground_normal">#A5A5FF</color>
+    <color name="keyBackground_pressed">#0A0AFF</color>
+</resources>
